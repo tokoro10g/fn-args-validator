@@ -1,0 +1,7 @@
+[package]
+name = "fn-args-validator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fn-args-validator-macros = { version = "0.1.0", path = "fn-args-validator-macros" }
